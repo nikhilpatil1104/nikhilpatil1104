@@ -127,6 +127,7 @@ nikhil = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpatil1104&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff"/>
 
 </div>
 
