@@ -8,8 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Turning+messy+data+into+clean+decisions+%F0%9F%A7%A0;Bayesian+thinker.+ML+builder.+AI+explorer.;LLMs+%7C+Predictive+Models+%7C+ETL+Pipelines;Always+curious%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
+<br/>[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpatil7/)
