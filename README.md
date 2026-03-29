@@ -10,33 +10,13 @@
 
 <br/>
 
-<!-- ⭐ PORTFOLIO SHOWCASE ⭐ -->
-<a href="https://portfolio-nikhil-patil.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-Visit_My_Website-6C63FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-</a>
-
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--nikhil--patil.vercel.app-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--nikhil--patil.vercel.app-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpatil7/)
 [![GitHub](https://img.shields.io/badge/GitHub-nikhilpatil1104-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilpatil1104)
 [![Email](https://img.shields.io/badge/Email-nikhilpatil1104@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilpatil1104@gmail.com)
 [![UMBC](https://img.shields.io/badge/UMBC-M.S.%20Data%20Science-FFC72C?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://umbc.edu)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 [**Explore My Full Portfolio →**](https://portfolio-nikhil-patil.vercel.app/)
-
-<a href="https://portfolio-nikhil-patil.vercel.app/">
-  <img src="https://img.shields.io/badge/✨_Interactive_Portfolio-Dark_Mode_%7C_Animations_%7C_AI_Projects-6C63FF?style=flat-square&labelColor=0D1117" />
-</a>
-<br/>
-<sub>Built with React + Vite • Particle animations • Dark/Light toggle • Fully responsive</sub>
 
 </div>
 
@@ -52,12 +32,6 @@ I'm genuinely fascinated by what **Large Language Models** can do — not just a
 
 During the day, I build **predictive models**, **ETL pipelines**, and **BI dashboards**. At night, I'm probably reading a paper about something that doesn't exist in production yet — but will soon.
 
-<div align="center">
-  <a href="https://portfolio-nikhil-patil.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00D4AA&center=true&vCenter=true&width=500&height=30&lines=Check+out+my+portfolio+for+the+full+story+→" alt="Portfolio CTA" />
-  </a>
-</div>
-
 ---
 
 ## 🔭 What I'm Up To
@@ -68,7 +42,6 @@ nikhil = {
     "obsessing_over": ["LLM Agents", "RAG Pipelines", "Agentic AI Workflows"],
     "building":       "Predictive models for insurance analytics & CLV",
     "learning":       ["PyTorch advanced", "MLOps", "Generative AI systems"],
-    "portfolio":      "https://portfolio-nikhil-patil.vercel.app/ 🌐",
     "ask_me_about":   ["Bayesian stats", "regression modeling", "ETL design"],
     "fun_fact":       "I built a glaucoma detector with 94% accuracy from retinal images 👁️"
 }
@@ -127,33 +100,11 @@ nikhil = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://portfolio-nikhil-patil.vercel.app/#projects">
-    <img src="https://img.shields.io/badge/See_all_projects_with_live_demos_on_my_portfolio_→-00D4AA?style=for-the-badge&labelColor=0D1117" />
-  </a>
-</div>
-
-<br/>
-
-### 🤖 Insurance AI Research Agent
-> Custom four-step agentic AI loop — no external frameworks
-
-- Intent classification → search decision → DuckDuckGo retrieval → LLM synthesis
-- Built from scratch with **OpenAI API + Streamlit + Python**
-- Handles complex multi-turn insurance research queries with context awareness
-
-### 📄 RAG Insurance Policy Q&A — PlymBot
-> AI-powered Retrieval-Augmented Generation for insurance documents
-
-- **FAISS** vector embeddings + **GPT-4o-mini** for semantic search & answer synthesis
-- Production-grade guardrails, quick-question buttons, dark-theme UI
-- **Deployed to Streamlit Community Cloud**
-
 ### 👁️ Glaucoma Detection Model
 > CNN-based end-to-end detection from retinal fundus images
 
 - **94% accuracy**, 15% sensitivity boost over baseline
-- Transfer learning (VGG16) + augmentation pipeline → 3× dataset diversity, 25% less overfitting
+- Transfer learning + augmentation pipeline → 3× dataset diversity, 25% less overfitting
 - ROC-AUC, F1, recall-driven hyperparameter tuning → 12% minority-class detection boost
 
 ### 🌍 Climate Impact Prediction
@@ -176,8 +127,10 @@ nikhil = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff&cache_seconds=86400
+"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpatil1104&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+
 
 </div>
 
@@ -207,19 +160,11 @@ nikhil = {
 
 <div align="center">
 
-<!-- Portfolio CTA Banner -->
-<a href="https://portfolio-nikhil-patil.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19&height=80&text=🌐%20Visit%20My%20Portfolio%20→%20portfolio-nikhil-patil.vercel.app&fontSize=18&fontColor=ffffff&fontAlignY=50" width="100%" />
-</a>
-
-<br/><br/>
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:6C63FF,100:00D4AA&height=120&section=footer"/>
 
 **✨ Always curious. Always building. Let's connect and make something cool with data + AI.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--nikhil--patil.vercel.app-6C63FF?style=for-the-badge)](https://portfolio-nikhil-patil.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=nikhilpatil1104&color=6C63FF&style=for-the-badge&label=Profile+Views)](https://github.com/nikhilpatil1104)
 
 </div>
