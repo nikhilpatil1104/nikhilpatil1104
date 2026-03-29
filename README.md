@@ -100,6 +100,20 @@ nikhil = {
 
 ## 🚀 Featured Projects
 
+### 🤖 Insurance AI Research Agent
+> Custom four-step agentic AI loop — no external frameworks
+
+- Intent classification → search decision → DuckDuckGo retrieval → LLM synthesis
+- Built from scratch with **OpenAI API + Streamlit + Python**
+- Handles complex multi-turn insurance research queries with context awareness
+
+### 📄 RAG Insurance Policy Q&A — PlymBot
+> AI-powered Retrieval-Augmented Generation for insurance documents
+
+- **FAISS** vector embeddings + **GPT-4o-mini** for semantic search & answer synthesis
+- Production-grade guardrails, quick-question buttons, dark-theme UI
+- **Deployed to Streamlit Community Cloud**
+
 ### 👁️ Glaucoma Detection Model
 > CNN-based end-to-end detection from retinal fundus images
 
