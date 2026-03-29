@@ -9,8 +9,7 @@
 </a>
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--nikhil--patil.vercel.app-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpatil7/)
