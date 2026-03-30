@@ -8,9 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Turning+messy+data+into+clean+decisions+%F0%9F%A7%A0;Bayesian+thinker.+ML+builder.+AI+explorer.;LLMs+%7C+Predictive+Models+%7C+ETL+Pipelines;Always+curious%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
+<br/>
 
 <!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpatil7/)
 [![GitHub](https://img.shields.io/badge/GitHub-nikhilpatil1104-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilpatil1104)
 [![Email](https://img.shields.io/badge/Email-nikhilpatil1104@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilpatil1104@gmail.com)
@@ -79,6 +80,9 @@ nikhil = {
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -86,11 +90,14 @@ nikhil = {
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Cloud & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 </div>
 
@@ -98,19 +105,30 @@ nikhil = {
 
 ## 🚀 Featured Projects
 
-### 🤖 Insurance AI Research Agent
-> Custom four-step agentic AI loop — no external frameworks
+<div align="center">
 
-- Intent classification → search decision → DuckDuckGo retrieval → LLM synthesis
-- Built from scratch with **OpenAI API + Streamlit + Python**
-- Handles complex multi-turn insurance research queries with context awareness
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Insurance AI Research Agent</h3>
+      <a href="https://github.com/nikhilpatil1104/AI-Agent-For-Insurance-Research">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilpatil1104&repo=AI-Agent-For-Insurance-Research&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff" width="100%"/>
+      </a>
+      <br/>
+      <p>Custom four-step agentic AI loop — no external frameworks. Intent classification → search → DuckDuckGo retrieval → LLM synthesis. Built with <strong>OpenAI API + Streamlit</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 PlymBot — RAG Policy Q&A</h3>
+      <a href="https://github.com/nikhilpatil1104/Insurance-Policy-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilpatil1104&repo=Insurance-Policy-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff" width="100%"/>
+      </a>
+      <br/>
+      <p>AI-powered RAG over insurance documents. <strong>FAISS</strong> vector search + <strong>GPT-4o-mini</strong>. Production-grade guardrails, deployed to Streamlit Cloud.</p>
+    </td>
+  </tr>
+</table>
 
-### 📄 RAG Insurance Policy Q&A — PlymBot
-> AI-powered Retrieval-Augmented Generation for insurance documents
-
-- **FAISS** vector embeddings + **GPT-4o-mini** for semantic search & answer synthesis
-- Production-grade guardrails, quick-question buttons, dark-theme UI
-- **Deployed to Streamlit Community Cloud**
+</div>
 
 ### 👁️ Glaucoma Detection Model
 > CNN-based end-to-end detection from retinal fundus images
@@ -136,17 +154,40 @@ nikhil = {
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpatil1104&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+<!-- Stats card + Top Languages (donut layout, cache added to avoid rate limits) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpatil1104&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&cache_seconds=86400"/>
 
 </div>
 
+<div align="center">
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhilpatil1104&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00D4AA&fire=FF6B9D&currStreakLabel=ffffff&cache_seconds=86400)
+
+</div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nikhilpatil1104&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00D4AA&fire=FF6B9D&currStreakLabel=ffffff)
+<!-- Profile Summary Card (different service = more reliable, shows commit activity + language breakdown) -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilpatil1104&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilpatil1104&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D4AA&point=FF6B9D&hide_border=true&area=true&area_color=6C63FF" />
+
+</div>
+
+<div align="center">
+
+<!-- Trophies -->
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=nikhilpatil1104&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
