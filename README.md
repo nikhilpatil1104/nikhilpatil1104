@@ -195,12 +195,7 @@ nikhil = {
 
 </div>
 
-<div align="center">
 
-<!-- Trophies -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=nikhilpatil1104&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
 
 ---
 
