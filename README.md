@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nikhil-patil.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpatil7/)
-[![GitHub](https://img.shields.io/badge/GitHub-nikhilpatil1104-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilpatil1104)
+[![GitHub](https://img.shields.io/badge/GitHub-nikhilpatil1104-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilpatil1104)
 [![Email](https://img.shields.io/badge/Email-nikhilpatil1104@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilpatil1104@gmail.com)
 [![UMBC](https://img.shields.io/badge/UMBC-M.S.%20Data%20Science-FFC72C?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://umbc.edu)
 
@@ -110,19 +110,37 @@ nikhil = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Insurance AI Research Agent</h3>
-      <a href="https://github.com/nikhilpatil1104/AI-Agent-For-Insurance-Research">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilpatil1104&repo=AI-Agent-For-Insurance-Research&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff" width="100%"/>
-      </a>
-      <br/>
+      <h3 align="center">🤖 Insurance AI Research Agent</h3>
+      <p align="center">
+        <a href="https://github.com/nikhilpatil1104/AI-Agent-For-Insurance-Research">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/nikhilpatil1104/AI-Agent-For-Insurance-Research?color=FFD700&style=flat-square&logo=github&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/nikhilpatil1104/AI-Agent-For-Insurance-Research?color=00D4AA&style=flat-square&logo=github&label=Forks"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/nikhilpatil1104/AI-Agent-For-Insurance-Research?color=FF6B9D&style=flat-square&label=Last+Commit"/>
+      </p>
       <p>Custom four-step agentic AI loop — no external frameworks. Intent classification → search → DuckDuckGo retrieval → LLM synthesis. Built with <strong>OpenAI API + Streamlit</strong>.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 PlymBot — RAG Policy Q&A</h3>
-      <a href="https://github.com/nikhilpatil1104/Insurance-Policy-Bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilpatil1104&repo=Insurance-Policy-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff" width="100%"/>
-      </a>
-      <br/>
+      <h3 align="center">📄 PlymBot — RAG Policy Q&A</h3>
+      <p align="center">
+        <a href="https://github.com/nikhilpatil1104/Insurance-Policy-Bot">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/nikhilpatil1104/Insurance-Policy-Bot?color=FFD700&style=flat-square&logo=github&label=Stars"/>
+        <img src="https://img.shields.io/github/forks/nikhilpatil1104/Insurance-Policy-Bot?color=00D4AA&style=flat-square&logo=github&label=Forks"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/nikhilpatil1104/Insurance-Policy-Bot?color=FF6B9D&style=flat-square&label=Last+Commit"/>
+      </p>
       <p>AI-powered RAG over insurance documents. <strong>FAISS</strong> vector search + <strong>GPT-4o-mini</strong>. Production-grade guardrails, deployed to Streamlit Cloud.</p>
     </td>
   </tr>
@@ -157,23 +175,16 @@ nikhil = {
 
 <div align="center">
 
-<!-- Stats card + Top Languages (donut layout, cache added to avoid rate limits) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpatil1104&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&cache_seconds=86400"/>
+<!-- Stats + Top Languages — using a separate deployment with its own GitHub API quota -->
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=nikhilpatil1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nikhilpatil1104&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=nikhilpatil1104&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00D4AA&fire=FF6B9D&currStreakLabel=ffffff&cache_seconds=86400)
-
-</div>
-
-<div align="center">
-
-<!-- Profile Summary Card (different service = more reliable, shows commit activity + language breakdown) -->
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilpatil1104&theme=tokyonight" />
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhilpatil1104&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00D4AA&fire=FF6B9D&currStreakLabel=ffffff)
 
 </div>
 
