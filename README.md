@@ -25,11 +25,11 @@
 
 > *"The goal is to turn data into information, and information into insight — but I'd add: and insight into action, powered by AI."*
 
-Hey! I'm **Nikhil** — a grad student in Data Science at **University of Maryland Baltimore County** (GPA: 3.80), wired to ask *why*, obsessed with *how*, and always chasing the next interesting problem at the intersection of **machine learning**, **Bayesian reasoning**, and **AI**.
+Hey! I'm **Nikhil** - a grad student in Data Science at **University of Maryland Baltimore County** (GPA: 3.80), wired to ask *why*, obsessed with *how*, and always chasing the next interesting problem at the intersection of **machine learning**, **Bayesian reasoning**, and **AI**.
 
-I'm genuinely fascinated by what **Large Language Models** can do — not just as chatbots, but as reasoning engines that can augment data workflows, automate analysis, and surface insights that would take humans days to find. I've been deep in the GenAI rabbit hole: exploring RAG pipelines, AI agents, and how LLMs can be composed into systems that *actually do things*.
+I'm genuinely fascinated by what **Large Language Models** can do - not just as chatbots, but as reasoning engines that can augment data workflows, automate analysis, and surface insights that would take humans days to find. I've been deep in the GenAI rabbit hole: exploring RAG pipelines, AI agents, and how LLMs can be composed into systems that *actually do things*.
 
-During the day, I build **predictive models**, **ETL pipelines**, and **BI dashboards**. At night, I'm probably reading a paper about something that doesn't exist in production yet — but will soon.
+During the day, I build **predictive models**, **ETL pipelines**, and **BI dashboards**. At night, I'm probably reading a paper about something that doesn't exist in production yet - but will soon.
 
 ---
 
